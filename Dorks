@@ -1,5 +1,4 @@
-
-  /modules/PNphpBB2/includes/functions_admin.php?phpbb_root_path=
+/modules/PNphpBB2/includes/functions_admin.php?phpbb_root_path=
 !Host=*.* intext:enc_UserPassword=* ext:pcf
 " -FrontPage-" ext:pwd inurl:(service | authors | administrators | users)
 "# -FrontPage-" ext:pwd inurl:(service | authors | administrators | users) "# -FrontPage-" inurl:service.pwd
