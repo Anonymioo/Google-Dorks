@@ -237,6 +237,7 @@ sshadmin/
 staradmin/
 sub-login/
 super.%XT%
+super.%XT%```
 super_index%XT%
 super_login%XT%
 super1%XT%
@@ -261,8 +262,8 @@ SysAdmin2/
 sysadmins/
 system_administration/
 system-administration/
-typo3/
 toor/
+typo3/
 ur-admin.%XT%
 ur-admin/
 user.%XT%
@@ -292,7 +293,6 @@ wp-admin/
 wp-login.php
 wp-login/
 xlogin/
-yonetici.%XT%
 yonetici.%XT%
 yonetici.html
 yonetim.%XT%
