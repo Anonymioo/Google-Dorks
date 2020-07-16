@@ -1,6 +1,5 @@
 !Host=*.* intext:enc_UserPassword=* ext:pcf
 !Host=. intext:enc_UserPassword= ext:pcf
-"
 " ""Jax Calendar v1.34 by Jack (tR), www.jtr.de/scripting/php"""
 " ""Powered By Azadi Network"" "
 "-- Account dump" ext:sql -git
